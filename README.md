@@ -69,9 +69,9 @@ In this project, we will implement a **Content-Based Recommendation System** for
 ## Contact
 If you have any questions or want to collaborate, feel free to reach out:
 
-[LinkedIn](https://www.linkedin.com/in/ashhdubey/){:target="_blank"}
-[Instagram](https://www.instagram.com/ashhdubey/){:target="_blank"}
-[GitHub](https://github.com/ashhdubey){:target="_blank"}
+- **LinkedIn**: [https://www.linkedin.com/in/ashhdubey/](https://www.linkedin.com/in/ashhdubey/)
+- **Instagram**: [https://www.instagram.com/ashhdubey/](https://www.instagram.com/ashhdubey/)
+- **GitHub**: [https://github.com/ashhdubey](https://github.com/ashhdubey/)
 
 
 
